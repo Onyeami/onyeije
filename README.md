@@ -1,39 +1,77 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **Welcome to Onye-Ije Tourism Company**.
 
-Welcome,
+ Welcome to Onye-Ije Tourism Company. Onye Ije means ‘the traveller’ in the Igbo language. Our main purpose is to provide you with all the information and resources you need in order to plan your unforgettable trip to Abia State in Nigeria. Onye-Ije Tourism Company has the primary objective of showcasing to the world the beauty and cultural heritage of Abia State in the southeastern part of Nigeria. This README provides an overview of our company and the amazing experience you can enjoy while exploring Abia State.
+ 
+ ## About Abia State
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+ Abia State is located in the south-eastern part of Nigeria and is known for its rich history, captivating landscapes, vibrant culture and warm hospitality. Abia State offers a unique blend of natural wonders. Historical sites and traditional customs that will leave you awe-inspired.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+ ## Why choose Onye-Ije Tourism Company?
 
-## Codeanywhere Reminders
+ At Onye-Ije Tourism Company, we are very passionate about creating unforgettable experiences for our visitors. As a first-time visitor, we understand that you may be seeking clarity on what our website offers. Our goal is to showcase various destinations, attractions, and activities to inspire your visit to Abia State. Whether you are looking for adventure, relaxation, cultural experiences, or simply a fun getaway, our website is here to guide you. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+ ## The Design of the Website
 
-`python3 -m http.server`
+ +	The colour scheme used is green, white and brown 
+- The typography used is Montserrat font, being the main font and sans serif as the fall-back font. 
+*	The features are interactive elements and are responsive on all device sizes. 
++	The technologies used are HTML and CSS.
+-	The frameworks, libraries and programs used are 
+	  * Hover.css used on the social media icons in the footer to add the float transition while being hovered over
+    *	Git used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    *	GitHub used to store the project’s code after being pushed from Git.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+    ## The Website Structure
+    1. _Home Page_
+          * Eye-catching header showing the name of the tourist company ‘Onye-Ije Tourism Company’ 
+        * Welcome message highlighting the uniqueness and beauty of Abia State.
+        * A brief overview of the website and its purpose.
+        * The navigation menu to access different sections of the website.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+    2.  *About Abia State*
+         * Information about Abia State, its location, and significance.
+	    * History of the state and its cultural heritage.
+        * Key facts and figures about Abia State
+        * Map highlighting major cities and landmarks.
 
-`http_server`
+    3.	_Explore Abia_
+        * Categories of tourist attractions (e.g., Natural Wonders, Cultural Sites, Historical Landmarks, Adventure Activities) 
+        * List of popular tourist attractions under each category
+        * Brief descriptions, images, and highlights of each attraction
+        * Links to detailed pages for each attraction with additional information
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+    4.	*Plan Your Visit*
+        * Travel tips and guidelines for visiting Abia State
+        * Information on transportation options within the state
+        * Accommodation options (hotels, resorts, guest houses) with descriptions and contact details
+        * Weather information and the best time to visit
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+    5.	_Events and Festivals_
+        * Calendar of upcoming events, festivals, and cultural celebrations in Abia State
+        *Detailed descriptions of major events with dates, locations, and highlights
+        * Photo gallery showcasing previous events and festivals
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+    6.	*Local Cuisine*
+        * Introduction to the diverse culinary traditions of Abia State
+        * Featured local dishes with descriptions and images
 
-To log into the Heroku toolbelt CLI:
+    7.	_Testimonies_ 
+        * Personal accounts from visitors sharing their adventures in the state
+        * Opportunities for visitors to contribute their own stories and photos
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+    8.	*Contact Us*
+        * Contact form for general inquiries, feedback, and partnership opportunities
+	    * Social media links to connect with Onye-Ije Tourism's official accounts
+        * Contact details for Onye-Ije Tourism Company.
+    	* Office address and phone numbers for direct communication.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+    9.	_Footer_
+        * Copyright notice and legal information
+        * Quick links to important sections of the website
+        * Privacy policy and terms of use
 
----
+   
 
-Happy coding!
+
+
+   
